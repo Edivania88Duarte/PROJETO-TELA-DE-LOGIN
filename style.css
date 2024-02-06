@@ -44,6 +44,8 @@ a:hover {
   margin-top: 10vh;
   border-radius: 10px;
   text-align: center;
+  -webkit-box-shadow: 15px 15px 15px 15px #e0a3a3;
+    box-shadow: #f5c2c2 5px 5px 5px 5px;
 }
 
 /* formulário */
